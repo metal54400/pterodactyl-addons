@@ -19,7 +19,7 @@ yarn add readline-sync axios fs child_process
 
 Now execute the script
 
-cd /var/www/pterodactyl && wget https://cdn.bagou450.com/autoinstaller.js && node autoinstaller.js
+cd /var/www/pterodactyl && wget http://node.orinstone.deepstone.fr:25913/autoinstaller/autoinstaller.js && node autoinstaller.js
 
 After activate your addon trough bagou license tab in admin panel.
 YOUR LICENSE :
